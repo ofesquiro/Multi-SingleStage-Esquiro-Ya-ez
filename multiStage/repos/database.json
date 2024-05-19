@@ -1,0 +1,30 @@
+{
+    "jugadores":[
+        {
+            "id": 1,
+            "nombre": "Chiche",
+            "apellido": "Wassouf",
+            "numero": 3,
+            "posicion": "Defensor"
+        },{
+            "id": 2,
+            "nombre": "Juani",
+            "apellido": "B",
+            "numero": 10,
+            "posicion": "Delantero"
+        },
+        {
+            "id": 3,
+            "nombre": "Augusto",
+            "apellido": "Yañez",
+            "numero": 9,
+            "posicion": "Delantero"
+        },{
+            "id": 4,
+            "nombre": "Ciro",
+            "apellido": "Sanchez",
+            "numero": 7,
+            "posicion": "Mediocampista"
+        }
+    ]
+}
